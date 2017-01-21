@@ -1,0 +1,18 @@
+body {
+  background-color: LightCyan;
+  font-size: 16px;
+}
+h1 {
+  font-size: 1.8em;
+  color: green;
+}
+section {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+section img {
+  width: 30%;
+  height: 30%;
+  padding: 10px;
+}
